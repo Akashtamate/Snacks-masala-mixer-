@@ -33,14 +33,15 @@ The machine shall be an integration of many electronic devices like motors,batte
 **1.** **RPM DC MOTOR:**
 DC motor plays a vital role. Motors cause the rotational motion required in our mixing, turning wheels, motion of conveyor belts,etc. DC motors generally convert electrical energy into mechanical energy and a rotating shaft acts as prime mover of the components attached to it.
  Principle involved is, when current carrying conductor is placed in a magnetic field it experiences a mechanical force(rotatory motion in this case).
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330px-Electric_motor.gif) 
 
 **2.** **SMALL BEARINGS:**
 Bearings help in connecting blades of mixer to DC motor in our machine . It generally helps in reducing friction making rotation easy.
 
-|![](https://www.motionindustries.com/motion3/fsdb/images/item/NTN_1153.jpg)|
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/BallBearing.gif)
 
-image source:google.
+
 
 **4.** **PUSH ON SWITCHES:**
 Push buttons allow us to control the current supply to DC motor. simple principle involved in it is ,"it makes the circuit connected when pressed and breaks when released."
