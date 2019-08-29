@@ -40,17 +40,25 @@ DC motor plays a vital role. Motors cause the rotational motion required in our 
 Bearings help in connecting blades of mixer to DC motor in our machine . It generally helps in reducing friction making rotation easy.
 
 
+
 **3.** **PUSH ON SWITCHES:**
 Push buttons allow us to control the current supply to DC motor. simple principle involved in it is ,it makes the circuit connected when pressed and breaks when released.
 
 ![](https://www.robomart.com/image/cache/catalog/RM0914/push-button-on-off-switch-500x500.jpg)
 
 **4** **SENSORS**
-An electronic device that senses any physical variation in it's environment like heat, temperature, pressure sound,touch,etc., and converts it into an electrical signal sent to electronic processors for data analysis.
+An electronic device that senses any physical variation in it's environment like heat, temperature, pressure sound,touch,etc., and converts it into an electrical signal sent to electronic processors for data analysis. IR sensor, Ultrasonic sensor, LDR are a few to name.
+
+![](http://i1.ytimg.com/vi/DlG6LY84MUU/maxresdefault.jpg)
 
 
+**5** **CONVEYOR BELT**
+A conveyor belt system consists of conveyor belt of durable,flexible material that passes around two pulleys or equal or different sizes, to transfer materials from a place to another(within small range). conveyer belt is an endless loop that runs continuously by motors attached to the pulleys. 
 
-**4.** **PLASTIC BOXES:**
+ 
+
+
+**7.** **PLASTIC BOXES:**
 Our model consists of 2 shapes of plastic box. i.e, rectangular and cylindrical. Rectangular plastic Box builds the base  of our model which includes dc motor connections within it ,wherein cylindrical box acts as our mixer which will be placed on the rectangular box connected to dc motor using bolt,nuts, bottle caps with epoxy adhesive and ball bearings.
 
 **6.** **THIN METAL SHEET:**
