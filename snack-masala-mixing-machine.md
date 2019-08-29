@@ -4,29 +4,24 @@ _Draft 1_
 **Need Statement:**
   A restaurant serves a variety of snacks on their evening menu. The guests desire different types and level of spices on the snacks. The chef wants an automated solution that can help the guests select the desired type and level of spices for any snack. The snack and spices should be mixed by the machine consistently before serving.
 
-#  Pertinent Information
-
 ## Why a Snack Masala Mixing machine?
 We aim to design this machine subject to the need arisen at a restaurant, to help the customers by automating the snack making process. Automation as a solution will lead to less labor and more satisfied customers.
 
 ## How to make a Snack Masala Mixing machine?
-The machine shall be an integration of many electronic devices like motors,batteries,sensors,and mechanical components like wheels, rods bearings, etc., 
+The machine shall be an integration of many electronic devices like motors,batteries,sensors,and mechanical components like wheels, rods bearings, etc., and combine different ideas, skills, knowledge to build a working automated snack maker.
 
+#  Pertinent Information
 
-
-
-
-
-## Information Collected By Various Sources:
-|Sr no.|Mechanical components|Electrical components|Other|Links|
-|--|--|--|--|--|
-|1|rpm Dc motor|Push ON switches|rectangular and cylindrical plastic boxes|https://youtu.be/Z2zK6UAEOGk|
-|2|DC socket|Arduino board|Bottle cups with epoxy adhesive|https://youtu.be/uqXUjiie394|
-|3|Small 6302L8 bearings|Potentiometer|Thin metal sheet for blades|https://youtu.be/hacZfAwSLDc|
-|4|Bolts and nuts|Battery|Rubber belt|https://youtu.be/WTtT92Gr1CY|
-|5|DC supply||||
-|6|Servo motors||||
-|7|Wheels||||
+### Major Components:
+|Sr no.|Mechanical components|Electrical components|Other|
+|--|--|--|--|
+|1|range of rpm Dc motors|Push ON switches|rectangular and cylindrical plastic boxes|
+|2|DC socket|Arduino board|Bottle cups with epoxy adhesive|
+|3|Small 6302L8 bearings|Potentiometer|Thin metal sheet for blades|
+|4|Bolts and nuts|9V 12V Batteries|Rubber belt|
+|5|DC supply|||
+|6|Servo motors|||
+|7|Wheels|||
 
 ***
 **Details Of Components Used:**
@@ -61,6 +56,10 @@ Our model consists of 2 shapes of plastic box. i.e, rectangular and cylindrical.
 **6.** **THIN METAL SHEET:**
 The use of metal sheet in our model is to build mixing blades connected with DC motor which rotates with certain speed  for the sake of mixing spices and snacks together.
 
+https://youtu.be/Z2zK6UAEOGk
+https://youtu.be/uqXUjiie394
+https://youtu.be/hacZfAwSLDc
+https://youtu.be/WTtT92Gr1CY
 
 ## Our Objectives
 * to automate the machine as much as possible thus reducing the need of human hands around it. 
