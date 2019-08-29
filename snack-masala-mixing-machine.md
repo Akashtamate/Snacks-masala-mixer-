@@ -79,10 +79,12 @@ Links to interesting videos below:
 * The machine will be made cost effective.
 * it is user friendly so that everyone will be able to operate it. 
 
+
 # Functions
 * Mixing of snack consistently. 
 * Transporting of snacks to the container.
 * Serving the snacks to the consumer/customer
+
 
 # Constraints
 * There are only 4 different choice of spices in snacks. 
@@ -95,4 +97,6 @@ Links to interesting videos below:
 
 # THE PROBLEM DEFINITION
 Design a snack masala mixing machine to mix desired amount of different spices to the snack. The machine will be made automatic as much as possible and is made cost effective and user friendly so that everyone can use it. There will be four types of spices for selecting the flavors for a single snack provided. The preparation of the snack will take around two minutes. The machine will be mixing the desired amount of spices consistently. The snacks are then transported to the container and finally the snacks will be served to the consumer/customers by a server robo. 
+
+***
 
