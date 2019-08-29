@@ -4,7 +4,7 @@
 ## Information Collected By Various Sources:
 |Sr no.|Mechanical components|Electrical components|Other|Links|
 |--|--|--|--|--|
-|1|rmp Dc motor|Push ON switches|rectangular and cylindrical plastic boxes|https://youtu.be/Z2zK6UAEOGk|
+|1|rpm Dc motor|Push ON switches|rectangular and cylindrical plastic boxes|https://youtu.be/Z2zK6UAEOGk|
 |2|DC socket|Arduino board|Bottle cups with epoxy adhesive|https://youtu.be/uqXUjiie394|
 |3|Small 6302L8 bearings|Potentiometer|Thin metal sheet for blades|https://youtu.be/hacZfAwSLDc|
 |4|Bolts and nuts|Battery|Rubber belt|https://youtu.be/WTtT92Gr1CY|
