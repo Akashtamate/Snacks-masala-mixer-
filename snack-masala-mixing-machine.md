@@ -39,18 +39,18 @@ DC motor plays a vital role. Motors cause the rotational motion required in our 
 **2.** **SMALL BEARINGS:**
 Bearings help in connecting blades of mixer to DC motor in our machine . It generally helps in reducing friction making rotation easy.
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/30/BallBearing.gif)
+
+**3.** **PUSH ON SWITCHES:**
+Push buttons allow us to control the current supply to DC motor. simple principle involved in it is ,it makes the circuit connected when pressed and breaks when released.
+
+![](https://www.robomart.com/image/cache/catalog/RM0914/push-button-on-off-switch-500x500.jpg)
+
+**4** **SENSORS**
+An electronic device that senses any physical variation in it's environment like heat, temperature, pressure sound,touch,etc., and converts it into an electrical signal sent to electronic processors for data analysis.
 
 
 
-**4.** **PUSH ON SWITCHES:**
-Push buttons allow us to control the current supply to DC motor. simple principle involved in it is ,"it makes the circuit connected when pressed and breaks when released."
-
-|![](https://www.robomart.com/image/cache/catalog/RM0914/push-button-on-off-switch-500x500.jpg)|
-
-image source:google.
-
-**5.** **PLASTIC BOXES:**
+**4.** **PLASTIC BOXES:**
 Our model consists of 2 shapes of plastic box. i.e, rectangular and cylindrical. Rectangular plastic Box builds the base  of our model which includes dc motor connections within it ,wherein cylindrical box acts as our mixer which will be placed on the rectangular box connected to dc motor using bolt,nuts, bottle caps with epoxy adhesive and ball bearings.
 
 **6.** **THIN METAL SHEET:**
