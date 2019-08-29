@@ -13,16 +13,14 @@ The machine shall be an integration of many electronic devices like motors,batte
 #  Pertinent Information
 
 ### Major Components:
-|Sr no.|Mechanical components|Electrical components|Other|
-|--|--|--|--|
-|1|range of rpm Dc motors|Push ON switches|rectangular and cylindrical plastic boxes|
-|2|DC socket|Arduino board|Bottle cups with epoxy adhesive|
-|3|Small 6302L8 bearings|Potentiometer|Thin metal sheet for blades|
-|4|Bolts and nuts|9V 12V Batteries|Rubber belt|
-|5|DC supply|||
-|6|Servo motors|||
-|7|Wheels|||
-
+|Sr no.|Mechanical components|Electrical-|components|Other|
+|--|--|--|--|--|
+|1|Small 6302L8 bearings|Arduino board|Potentiometer|rectangular and cylindrical plastic boxes|
+|2|Bolts and nuts||Push ON switches|epoxy adhesive glue gun|
+|3|Wheels|9V 12V Batteries|range of rpm Dc motors| Cardboard|
+|4|Thin metal sheet|Servo motors|Sensors(IR,etc..)|Rubber belt|
+|5||DC socket|Wires |Bottle cups|
+ 
 ***
 **Details Of Components Used:**
 
