@@ -68,6 +68,9 @@ Links to interesting videos below:
 * https://youtu.be/uqXUjiie394
 * https://youtu.be/hacZfAwSLDc
 * https://youtu.be/WTtT92Gr1CY
+* https://youtu.be/DlG6LY84MUU
+* https://youtu.be/VSJW71yo2oY
+
 
 ***
 
