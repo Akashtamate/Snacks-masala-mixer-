@@ -10,10 +10,8 @@ _Draft 1_
 We aim to design this machine subject to the need arisen at a restaurant, to help the customers by automating the snack making process. Automation as a solution will lead to less labor and more satisfied customers.
 
 ## How to make a Snack Masala Mixing machine?
-The machine shall be an integration of many i
+The machine shall be an integration of many electronic devices like motors,batteries,sensors,and mechanical components like wheels, rods bearings, etc., 
 
-
-## _What is Snack Masala Mixing machine?_
 
 
 
