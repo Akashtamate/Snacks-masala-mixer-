@@ -28,6 +28,7 @@ The machine shall be an integration of many electronic devices like motors,batte
 
 **1.** **RPM DC MOTOR:**
 DC motor plays a vital role in our machine.The blades fixed in our mixer rotates due to dc motor.DC motor generally converts electrical energy into mechanical energy and principle involved in it is ,"when current carrying conductor is placed in a magnetic field it experiences mechanical force(rotatory motion in this case)."
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330px-Electric_motor.gif)
 
 **2.** **DC SOCKET:**
 A device(component) connected at one end of DC motor which helps in supplying current to DC motor.
