@@ -55,22 +55,41 @@ An electronic device that senses any physical variation in it's environment like
 **5** **CONVEYOR BELT**
 A conveyor belt system consists of conveyor belt of durable,flexible material that passes around two pulleys or equal or different sizes, to transfer materials from a place to another(within small range). conveyer belt is an endless loop that runs continuously by motors attached to the pulleys. 
 
- 
+![](https://i.ytimg.com/vi/VSJW71yo2oY/maxresdefault.jpg) 
 
-
-**7.** **PLASTIC BOXES:**
+**6.** **PLASTIC BOXES:**
 Our model consists of 2 shapes of plastic box. i.e, rectangular and cylindrical. Rectangular plastic Box builds the base  of our model which includes dc motor connections within it ,wherein cylindrical box acts as our mixer which will be placed on the rectangular box connected to dc motor using bolt,nuts, bottle caps with epoxy adhesive and ball bearings.
 
-**6.** **THIN METAL SHEET:**
+**7.** **THIN METAL SHEET:**
 The use of metal sheet in our model is to build mixing blades connected with DC motor which rotates with certain speed  for the sake of mixing spices and snacks together.
 
-https://youtu.be/Z2zK6UAEOGk
-https://youtu.be/uqXUjiie394
-https://youtu.be/hacZfAwSLDc
-https://youtu.be/WTtT92Gr1CY
+Links to interesting videos below:
+* https://youtu.be/Z2zK6UAEOGk
+* https://youtu.be/uqXUjiie394
+* https://youtu.be/hacZfAwSLDc
+* https://youtu.be/WTtT92Gr1CY
 
-## Our Objectives
-* to automate the machine as much as possible thus reducing the need of human hands around it. 
-* to make it cost efficient 
-* 
-* 
+***
+
+# Our Objectives
+* The machine will be automated so as to reduce the work of humans thus saving time.
+* The machine will be made cost effective.
+* it is user friendly so that everyone will be able to operate it. 
+
+# Functions
+* Mixing of snack consistently. 
+* Transporting of snacks to the container.
+* Serving the snacks to the consumer/customer
+
+# Constraints
+* There are only 4 different choice of spices in snacks. 
+* Only one type of snack will be provided to consumer/customer. 
+* The time duration for preparation of snack will take around two minutes.
+
+
+***
+ 
+
+# THE PROBLEM DEFINITION
+Design a snack masala mixing machine to mix desired amount of different spices to the snack. The machine will be made automatic as much as possible and is made cost effective and user friendly so that everyone can use it. There will be four types of spices for selecting the flavors for a single snack provided. The preparation of the snack will take around two minutes. The machine will be mixing the desired amount of spices consistently. The snacks are then transported to the container and finally the snacks will be served to the consumer/customers by a server robo. 
+
