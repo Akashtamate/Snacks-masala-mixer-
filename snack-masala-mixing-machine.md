@@ -82,8 +82,9 @@ Links to interesting videos below:
 
 # Functions
 * Mixing of snack consistently. 
-* Transporting of snacks to the container.
-* Serving the snacks to the consumer/customer
+* Storing snack and masala separately.
+* Transporting of snack and masala to the container.
+* Serving the snacks to the consumer/customer.
 
 
 # Constraints
