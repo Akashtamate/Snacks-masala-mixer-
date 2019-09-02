@@ -1,11 +1,11 @@
-# TEAM INFO : TEAM 3
+# TEAM 3
 
 |S.no|Name|USN|Contact no.|
 |--|--|--|--|
-|1|Akash   |||
+|1|Akash   |01FE19BME157|8971742697|
 |2|Vinutha S|01FE19BME174|8088442507|
-|3|Pooja   |||
-|4|Abhishek|||
+|3|Pooja   ||9591518839|
+|4|Abhishek||7760149240|
 
 
 
