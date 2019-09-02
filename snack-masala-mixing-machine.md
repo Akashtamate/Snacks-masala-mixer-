@@ -18,6 +18,18 @@ The machine shall be an integration of many electronic devices like motors,batte
 
 https://vimeo.com/96913610
 
+![](https://static.dezeen.com/uploads/2014/06/Food-Machine-by-Petter-Kukacka-Johansson_dezeen_sqa.jpg)
+
+What if food was about more experimentation and less tradition? Here is a brilliant cooking machine by Collaborative Cooking that performs heating, stirring and selection of ingredients,all the functions of a chef. In the machine we see that different ingredients(35 kinds), for the dish are stored separately, by motors controlling movements they are put in mixing container and other vegetables slide down to the container where they are mixed and cooked. The machine is coded to cook the dish and Cooking sessions can last for 10 to 20 hours. It also keeps track of functions done.
+
+
+Four engineers from MIT have opened a fast-food restaurant in Boston that uses mechanical woks to autonomously prepare meals in under three minutes.These robots are designed to simultaneously prepare food in three minutes or less.Customers place their orders using a touch-screen device. Then an ingredient delivery system collects the ingredients, portions them, and delivers them into one of the robotic container.ingredients are then mixed and cooked at 450 degrees Fahrenheit using induction technology.
+
+https://youtu.be/kuSK0bs3fcY
+
+![](https://static.dezeen.com/uploads/2018/05/spyce-restaurant-robotic-kitchen-technology_dezeen_2364_sq-5.gif)
+
+
 ### Youtube videos
 
 https://youtu.be/hacZfAwSLDc
