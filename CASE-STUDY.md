@@ -1,7 +1,10 @@
 # CASE STUDY
 **1. NEED STATEMENT:** Snacks masala mixing
+
 **2. DESIGNERS:** Akash,Abhishek,Pooja,Vinutha
+
 **3. CLIENTS:** Chef
+
 **4. Users:** Chef
 
 |QUESTIONS|ANSWERS|OBJECTIVES|FUNCTIONS|CONSTRAINTS|
