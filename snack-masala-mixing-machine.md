@@ -14,6 +14,10 @@ The machine shall be an integration of many electronic devices like motors,batte
 #  Pertinent Information
 
 ## 1. What kind of information sources are to be searched?
+### From forum.adafruit.com
+
+
+https://vimeo.com/96825271
 
 ### Youtube videos
 
