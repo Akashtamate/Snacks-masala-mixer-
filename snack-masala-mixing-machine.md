@@ -22,7 +22,8 @@ The machine shall be an integration of many electronic devices like motors,batte
 
 **Youtube videos**
 
-|https://youtu.be/hacZfAwSLDc|
+https://youtu.be/hacZfAwSLDc
+
 
 ### Major Components:
 |Sr no.|Mechanical components|Electrical-|components|Others|
