@@ -22,15 +22,14 @@ https://vimeo.com/96913610
 
 What if food was about more experimentation and less tradition? Here is a brilliant cooking machine by Collaborative Cooking that performs heating, stirring and selection of ingredients,all the functions of a chef. In the machine we see that different ingredients(35 kinds), for the dish are stored separately, by motors controlling movements they are put in mixing container and other vegetables slide down to the container where they are mixed and cooked. The machine is coded to cook the dish and Cooking sessions can last for 10 to 20 hours. It also keeps track of functions done.
 
-
-Four engineers from MIT have opened a fast-food restaurant in Boston that uses mechanical woks to autonomously prepare meals in under three minutes.These robots are designed to simultaneously prepare food in three minutes or less.Customers place their orders using a touch-screen device. Then an ingredient delivery system collects the ingredients, portions them, and delivers them into one of the robotic container.ingredients are then mixed and cooked at 450 degrees Fahrenheit using induction technology.
+### Youtube videos
 
 https://youtu.be/kuSK0bs3fcY
 
+Four engineers from MIT have opened a fast-food restaurant in Boston that uses mechanical woks to autonomously prepare meals in under three minutes.These robots are designed to simultaneously prepare food in three minutes or less.Customers place their orders using a touch-screen device. Then an ingredient delivery system collects the ingredients, portions them, and delivers them into one of the robotic container.ingredients are then mixed and cooked at 450 degrees Fahrenheit using induction technology.
+
 ![](https://static.dezeen.com/uploads/2018/05/spyce-restaurant-robotic-kitchen-technology_dezeen_2364_sq-5.gif)
 
-
-### Youtube videos
 
 https://youtu.be/hacZfAwSLDc
 
@@ -73,30 +72,48 @@ These are some existing solutions which are partially satisfactory. Modification
 ***
 
 
-**3.** **Have you gone to any DIY projects?**
-Yes, we have gone through DIY projects. some of them are listed below.
+## 3. Have you gone to any DIY projects?
+Yes, we have gone through DIY projects. Some of them are listed below.
 
-https://hackerom.com/how-to-make-conveyor-belt/ -- A blog
-https://youtu.be/UsF5lsjdgw4 -- A video 
+https://youtu.be/UsF5Isjdgw4
  
-This DIY is referred from youtube video and a blog.
-In this video and blog, making of conveyor belt is shown. Which plays vital role of transporting spices to the mixer in our machine. The body of this is made up of cardboard and belt is made up of cycle tube. runs on simple DC motor.
+This DIY is referred from youtube video.
+In this video making of conveyor belt is shown, which plays vital role of transporting things around and dumping them in one place. This is done by a rolling elastic conveyor belt that rolls over 2 shafts attached to rotating motors(both in same direction). The body of this is made up of cardboard and belt is made up of cycle tube.It runs on simple DC motor.
 
 components used in this DIY project are:
-cardboard, pvc tube, cycle tube, dry cell, push on switch,BO gear dc motor.
+cardboard, pvc tube, cycle tube, dry cell, push on switch,BO gear, dc motor.
 
 https://youtu.be/jcee8ElT9Q
 
 This diy is referred from youtube.
-in this video making of simple blender is shown by using household things. in other words, best out of waste. In this video a plastic bottle is used to mix spices using a DC motor.
+in this video making of simple blender is shown by using household things. In other words, best out of waste. In this video a plastic bottle is used to mix spices using a DC motor.
 
 components used here are:
 plastic bottle, DC motor, cardboard for blades, dry cell.
 
+***
 
+ ## 4. What direct solutions are available for the need statements given for you?
+
+![](https://5.imimg.com/data5/AX/TU/MY-2081778/snacks-masala-mixing-machine-500x500.png)
+
+This Masala Mixing Machine ensure that you get hygienically prepared and packed food product with minimal human intervention. The Masala mixing machine can be set to add the right quantity of spices to the food products to ensure consistency and quality in the taste of all batches. The only problem with this machine is its cost. This machine is not affordable for everyone and is used well in large industries.
+
+https://youtu.be/vm04VmHOxlI
+
+![](http://pl.crusher-hanlv.net/uploads/201715282/small/fertilizer-mixing-machine12437002869.jpg)
+
+This is a heavy duty Namkeen masala mixing machine used in factory for large scale production of the snack. We see huge spiral blades in the mixing container what rotate continuously to mix the snack and the spices consistently. The machine will be powered by large motors and it consumes lot of power. We also need to be careful about the right rpm of motors used as the container is open and the snack might spill out if rotated too fast.
+
+https://youtu.be/8NTIciISVPA
  
- 
- 
+![](https://i.ytimg.com/vi/8NTIciISVPA/hqdefault.jpg)
+
+This is a fully automated mechanical cooking bot. There is absolutely no human hands involved for food preparation here. There are many Robotic Arms doing functions like selecting ingredients, frying, spraying, closing lid of the container. The mixing bowl heats and cooks the raw ingredients and food is ready. The machine also cleans by itself, adding plus point to its features.
+
+***
+
+
 ### Major Components:
 |Sr no.|Mechanical components|Electrical-|components|Others|
 |--|--|--|--|--|
@@ -107,61 +124,47 @@ plastic bottle, DC motor, cardboard for blades, dry cell.
 |5|Rods|DC socket|Wires |Bottle cups|
 
 ***
-**4.** **Major components and sub components**
+## 5. Major components and sub components
 
-**1.** **RPM DC MOTOR:**
+### 1. RPM DC MOTOR:
 DC motor plays a vital role. Motors cause the rotational motion required in our mixing, turning wheels, motion of conveyor belts,etc. DC motors generally convert electrical energy into mechanical energy and a rotating shaft acts as prime mover of the components attached to it.
  Principle involved is, when current carrying conductor is placed in a magnetic field it experiences a mechanical force(rotatory motion in this case).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330px-Electric_motor.gif) 
 
-**2.** **SMALL BEARINGS:**
+### 2. SMALL BEARINGS:
 Bearings help in connecting blades of mixer to DC motor in our machine . It generally helps in reducing friction making rotation easy.
 
 |![](https://us.misumi-ec.com/linked/material/mech/NTN1/PHOTO/NTN1_221000058378.jpg?$product_main$)|
 
 
-
-**3.** **PUSH ON SWITCHES:**
+### 3. PUSH ON SWITCHES:
 Push buttons allow us to control the current supply to DC motor. simple principle involved in it is ,it makes the circuit connected when pressed and breaks when released.
 
 ![](https://www.robomart.com/image/cache/catalog/RM0914/push-button-on-off-switch-500x500.jpg)
 
-**4** **SENSORS**
+### 4. SENSORS
 An electronic device that senses any physical variation in it's environment like heat, temperature, pressure sound,touch,etc., and converts it into an electrical signal sent to electronic processors for data analysis. IR sensor, Ultrasonic sensor, LDR are a few to name.
 
 ![](http://i1.ytimg.com/vi/DlG6LY84MUU/maxresdefault.jpg)
 
 
-**5** **CONVEYOR BELT**
+### 5. CONVEYOR BELT
 A conveyor belt system consists of conveyor belt of durable,flexible material that passes around two pulleys or equal or different sizes, to transfer materials from a place to another(within small range). conveyer belt is an endless loop that runs continuously by motors attached to the pulleys. 
 
 ![](https://i.ytimg.com/vi/VSJW71yo2oY/maxresdefault.jpg) 
 
-**6.** **PLASTIC BOXES:**
-Our model consists of 2 shapes of plastic box. i.e, rectangular and cylindrical. Rectangular plastic Box builds the base  of our model which includes dc motor connections within it ,wherein cylindrical box acts as our mixer which will be placed on the rectangular box connected to dc motor using bolt,nuts, bottle caps with epoxy adhesive and ball bearings.
 
-|![](https://www.plasticboxshop.co.uk/images/pack-of-5-30-litre-crystal-plastic-storage-boxes-with-lids-p3856-9529_image.jpg)|
-
-**7.** **THIN METAL SHEET:**
-The use of metal sheet in our model is to build mixing blades connected with DC motor which rotates with certain speed  for the sake of mixing spices and snacks together.
+### 6. THIN METAL SHEET:
+The use of metal sheet is to build different key parts which has certain role like, mixing blades connected with DC motor which rotates with certain speed  for the sake of mixing spices and snacks together.
 
 |![](https://www.ibcresource.com/images/folding-blade-2.jpg)|
 
 
-**8.** **DC GEAR MOTORS**
-A "gear motor" may be an AC or DC motor coupled with a gearbox or transmission. A gear motor adds mechanical gears to alter the speed/torque of the motor for an application. This motor is used in our conveyor belt for transportation of spices.
+### 7. DC GEAR MOTORS
+A "gear motor" may be an AC or DC motor coupled with a gearbox or transmission. A gear motor adds mechanical gears to alter the speed/torque of the motor for an application. This motor can be used in conveyor belt for transportation of spices.
 
 |![](https://images-na.ssl-images-amazon.com/images/I/61K76waiVgL._SX425_.jpg)|
-
-***
-
-
-**6.** **What direct solutions are available for the need statements given for you?**
-
-This Masala Mixing Machine ensure that you get hygienically prepared and packed food product with minimal human intervention. The Masala mixing machine can be set to add the right quantity of spices to the food products to ensure consistency and quality in the taste of all batches. The only problem with this machine is its cost. This machine is not affordable for everyone.
-
-|![](https://5.imimg.com/data5/AX/TU/MY-2081778/snacks-masala-mixing-machine-500x500.png)|
 
 ***
 
