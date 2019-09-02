@@ -1,5 +1,5 @@
 # CASE STUDY
-**1. NEED STATEMENT:** Snacks masala mixing
+**1. NEED STATEMENT:** Snacks masala mixing machine
 
 **2. DESIGNERS:** Akash,Abhishek,Pooja,Vinutha
 
@@ -10,12 +10,12 @@
 |QUESTIONS|ANSWERS|OBJECTIVES|FUNCTIONS|CONSTRAINTS|
 |--|--|--|--|--|
 |Do you want your machine to be automated or manual?|It must be automated.|*|||
-|Is consistency in spice mixing required?|Yes,machine must mix spice consistently||*||
+|How should the mixing of spices be?|machine must mix spices consistently to give the ready snack.||*||
 |How many spices must a machine mix?|Atleast 3 spices|||*|
-|Do you want your machine to be cost efficient?|Yes, the machine must be cost efficient|*|||
-|Do you want a user friendly machine?|Yes,because it will be easy to operate|*|||
+|How much do you want to spend on it?|The cost of machine should not exceed Rs.3000|||*|
+|Do you want a user friendly machine?|Machine should be easy to operate|*|||
 |Do you want your machine to be compact or portable?|It must be both compact and portable|*|||
-|Do you need any device to transport your spices/snacks to the mixer?|Yes,I need a device which transports spices/snacks||*||
+|Do you need a device to transport your snack to the customer ?|Yes,I need a device which transports snack to the customer||*||
 |Do you want your machine to notify when it completes mixing?|Yes||*||
-|How many types of snacks your machine must prepare at a stretch?|Machine must prepare only one snacks|||*|
-|How many minutes do you want your machine to mix the spices?|Around 2 minutes|||*|
+|How many types of snacks must your machine prepare at a stretch?|Machine must prepare only one snacks|||*|
+|How many minutes do you want your machine to mix the spices?|Not more than 2 minutes|||*|
