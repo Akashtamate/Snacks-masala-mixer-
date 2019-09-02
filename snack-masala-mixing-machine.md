@@ -47,11 +47,11 @@ The problem is about mixing different kinds of spices and snack consitently. The
 ### 1. MIXER
 
 This is a device which mixes lots of things, including raw spices. It even has a regulator which controls speed of the rotating blades. The reason behind not using this finished market product is, there is no such requirement of highly combat device like mixer. As we are just adding spice to existing snack and mixing it together. If we use mixer, it just messes up everything and the final product will not be satisfactory.
-|![](https://images-na.ssl-images-amazon.com/images/I/71qE8r45A7L._SX425_.jpg)|
+![](https://images-na.ssl-images-amazon.com/images/I/71qE8r45A7L._SX425_.jpg)
 
-**2.** **Blender**
+### 2. Blender
 This machine is quite similar to mixer. Generally used to blend fruits and vegetables which gives juice/liquid as its final product. We cant use this product because we don't need juice/liquid as our finish product.
-|![](https://images-na.ssl-images-amazon.com/images/I/71mZyyYl%2BeL._SL1500_.jpg)|
+![](https://images-na.ssl-images-amazon.com/images/I/71mZyyYl%2BeL._SL1500_.jpg)
 
 These are some existing solutions which are partially satisfactory. Modification to those may help in building a legit device which would satisfy the need statement given.
 
