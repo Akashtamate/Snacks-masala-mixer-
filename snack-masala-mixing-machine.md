@@ -7,51 +7,53 @@ We aim to design this machine subject to the need arisen at a restaurant, to hel
 ***
 
 ## How to make a Snack Masala Mixing machine?
-The machine shall be an integration of many electronic devices like motors,batteries,sensors,and mechanical components like wheels, rods bearings, etc., and combine different ideas, skills, knowledge to build a working automated snack maker.
+The machine shall be an integration of many electronic devices like motors,batteries,sensors,and mechanical components like wheels, rods, bearings, etc., and combine different ideas, skills, knowledge of various disciplines like Electronics, Mechanical engineering, Computer science, Automation and robotics, to build a working automated snack maker.
 
 ***
 
 #  Pertinent Information
 
-**1.** **What kind of information sources are to be searched?**
+## 1. What kind of information sources are to be searched?
 
-**Youtube videos**
+### Youtube videos
 
 https://youtu.be/hacZfAwSLDc
 
-In this video a simple machine is designed to mix flour, but we can make use of the design concept of machine from this video to build a spice mixing machine. With some carpentry work in building model to some use of technical devices we can eventually attain to a finished prototype.
-Components used in this model are:
+In this video, a very simple machine is designed to mix flour, but we can make use of the design concept of machine from this video to build a spice mixing machine. With some carpentry work in building model to some use of technical devices we can eventually attain to a finished prototype.
+Some components used in this model are:
 DC motors, push on switch, nuts and bolts, wooden planks, a metal stirrer, steel bowl and DC supply.
 
 https://youtu.be/Z2zK6UAEOGk
 
-This video is based on making mixer, which actually grinds the raw spices into powder by using sharp blades and high rpm DC motor. We can make use of this device for making spice mixing device by reducing the rpm of DC motor and using slightly blunt blades made up of metal sheet. This machine works on electricity and DC intake is very high. 
-components used in this model are:
+
+This video is based on making mixer, which actually grinds the raw spices into powder by using sharp blades and high rpm (1200 rpm) DC motor. We can make use of this device for making spice mixing device by reducing the rpm of DC motor and using slightly blunt blades made of metal sheet. This machine works on electricity and DC intake is very high. 
+Components used in this model are:
 DC motors,push on switch,nuts and bolts, DC socket, small bearings, metal sheet, plastic boxes of different shapes, bottle caps filled with epoxy adhesive.
 
 https://youtu.be/WTtT92Gr1CY
 
-This video is all about making conveyor belt. The reason behind referring this video is to build a machine which reduces human effort. We can use this in our spice mixing machine as a mode of transportation of spices to the mixer. 
-components used in this model are:
+This video is all about making conveyor belt. The reason behind referring this video is to build a machine which reduces human effort. We can use this in our spice mixing machine as a mode of transportation of spices and snack. 
+Components used in this model are:
 DC motor, push on switch, battery, tapes,cardboard,pvc pipe tube.
 
 ***
 
 
-**2.** **What are the existing solutions to the problem?**
+## 2. What are the existing solutions to the problem?
 
-The problem is about mixing different kinds of spices and snacks. There are many devices in the markets which do similar kind of work like mixing and grinding.
-Some of the devices are:
+The problem is about mixing different kinds of spices and snack consitently. There are many devices in the markets which do similar kind of work like mixing and grinding.
+**Some of the devices are:**
 
-**1.** **MIXER**
-This is a device which mixes lots of things, including raw spices. It even has a regulator which controls speed of the rotating blades. The reason behind not using this finished market product is, there is no such requirement of highly combat device like mixer. As we are just adding spice to existing spice. If we use mixer it just messes up everything and the final product will not be satisfactory.
+### 1. MIXER
+
+This is a device which mixes lots of things, including raw spices. It even has a regulator which controls speed of the rotating blades. The reason behind not using this finished market product is, there is no such requirement of highly combat device like mixer. As we are just adding spice to existing snack and mixing it together. If we use mixer, it just messes up everything and the final product will not be satisfactory.
 |![](https://images-na.ssl-images-amazon.com/images/I/71qE8r45A7L._SX425_.jpg)|
 
 **2.** **Blender**
 This machine is quite similar to mixer. Generally used to blend fruits and vegetables which gives juice/liquid as its final product. We cant use this product because we don't need juice/liquid as our finish product.
 |![](https://images-na.ssl-images-amazon.com/images/I/71mZyyYl%2BeL._SL1500_.jpg)|
 
-These are some existing solutions which are partially satisfactory. Modification to those may help in building a legit device which satisfy the need statement.
+These are some existing solutions which are partially satisfactory. Modification to those may help in building a legit device which would satisfy the need statement given.
 
 ***
 
