@@ -18,6 +18,12 @@ The machine shall be an integration of many electronic devices like motors,batte
 
 #  Pertinent Information
 
+1.**What kind of information sources are to be searched?**
+
+**Youtube videos**
+
+|https://youtu.be/hacZfAwSLDc|
+
 ### Major Components:
 |Sr no.|Mechanical components|Electrical-|components|Others|
 |--|--|--|--|--|
