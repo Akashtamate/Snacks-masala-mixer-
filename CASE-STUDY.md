@@ -1,11 +1,16 @@
 # CASE STUDY
-**1. NEED STATEMENT:** Snacks masala mixing machine
 
-**2. DESIGNERS:** Akash,Abhishek,Pooja,Vinutha
+ 1. NEED STATEMENT: **Snacks masala mixing machine**
 
-**3. CLIENTS:** Chef
+ 2. DESIGNERS: **Akash, Abhishek, Pooja, Vinutha**
 
-**4. Users:** Chef
+ 3. CLIENTS: **Chef**
+
+ 4. Users: **Chef / any user**
+
+ 5. Snack : **Sweet Corn snack**
+
+***
 
 |QUESTIONS|ANSWERS|OBJECTIVES|FUNCTIONS|CONSTRAINTS|
 |--|--|--|--|--|
@@ -23,20 +28,59 @@
 # Objectives 
 
 * The machine will be automated so as to reduce the work of humans thus saving the time.
+* The snack prepared will be healthy and edible
 * The machine will be made cost effective.
 * It is user friendly so that every one will be able to operate it.
 * Make the machine compact and portable.
 
-|Objectives 	|Automated |	Cost effective |	User friendly |	Compact and portable|	Score|
-|--|--|--|--|--|--|
-|Automated |***|0|0|||
-|Cost effective |1|***|1|||
-|User friendly |1|0|***|||
-|Compact and portable|1|0|0|***||
+|Objectives |Automated |Cost effective |Healthy and edible |User friendly |	Compact and portable|	Score|
+|--|--|--|--|--|--|--|
+|Automated |***|1|0|1|1|3|
+|Cost effective |0|***|0|0|1|2|
+|Healthy and edible |1|1|***|1|1|4|
+|User friendly |0|0|0|***|1|1|
+|Compact and portable|0|0|0|0|***|0|
+
+_**Priority of our objectives:**_
+* snack must be Healthy and edible
+* snack making process is automated
+* machine is cost effective
+* anybody can use it easily
+* machine is compact and portable
 
 ## Version 1.1
 
+**Design a Sweet Corn snack masala mixing machine that prepares non-toxic, edible snack and make the snack making process as automated as possible. The snack machine will be cost effective and easy to use by any sort of user plus it has additional features like being compact as well as portable in nature.**
+
+
+***
+# Constraints
+
+* There should be at least 3 different spices in the snack.
+* Only one type of snack will be provided to consumer/customers.(SWEET CORN)
+* The time duration for preparation of snack should not exceed two minutes.
+* The dimensions of the machine should not exceed 2*2 feet.
+* The machine should not weigh more than 8kg.
+* Cost of the machine should not exceed Rs.3000
+
+## Version 1.2
+
+Design a Sweet Corn snack masala mixing machine that prepares non-toxic, edible snack and make the snack making process as automated as possible. The snack machine will be cost effective and easy to use by any sort of user plus it has additional features like being compact as well as portable in nature. **Use at least 3 different kinds of spices to prepare only sweetcorn snack, making sure it is prepared within two minutes. The snack machine should weight less than 10kg ,its dimensions not exceeding 2*2 feet sq and cost not more than Rs.3000** .
 
 
 
+***
 
+
+# Functions 
+
+* give choice of flavor of the snack (salty or spicy).
+*  Store different spices and the snack(corn) separately.
+* Transporting of spices and snack to the mixing container.
+* Mixing of snack and spices consistently.
+* Notification after mixing of snacks is completed.
+
+# PROBLEM DEFINITION
+
+
+_**Design a Sweet Corn snack masala mixing machine that prepares non-toxic, edible snack and make the snack making process as automated as possible. The snack machine will be cost effective and easy to use by any sort of user plus it has additional features like being compact as well as portable in nature. Use at least 3 different kinds of spices to prepare only sweetcorn snack, making sure it is prepared within two minutes. The snack machine should weight less than 10kg ,its dimensions not exceeding 2*2 feet sq and cost not more than Rs.3000 . Two choices (Salty / Spicy) for the spice level in snack will be provided to the user. According to the choice, the spices and snack will be transported from the storage place to the mixing bowl where the snack and the spices will be mixed consistently. After the completion of mixing process, a message is displayed on screen for the user.**_
