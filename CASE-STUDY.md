@@ -19,3 +19,11 @@
 |Do you want your machine to notify when it completes mixing?|Yes||*||
 |How many types of snacks must your machine prepare at a stretch?|Machine must prepare only one snacks|||*|
 |How many minutes do you want your machine to mix the spices?|Not more than 2 minutes|||*|
+
+# Objectives 
+
+* The machine will be automated so as to reduce the work of humans thus saving the time.
+* The machine will be made cost effective.
+* It is user friendly so that every one will be able to operate it.
+* Make the machine compact and portable.
+
