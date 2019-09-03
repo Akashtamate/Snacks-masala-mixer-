@@ -27,3 +27,16 @@
 * It is user friendly so that every one will be able to operate it.
 * Make the machine compact and portable.
 
+|Objectives 	|Automated |	Cost effective |	User friendly |	Compact and portable|	Score|
+|--|--|--|--|--|--|
+|Automated |***|0|0|||
+|Cost effective |1|***|1|||
+|User friendly |1|0|***|||
+|Compact and portable|1|0|0|***||
+
+## Version 1.1
+
+
+
+
+
