@@ -3,13 +3,15 @@ Flowcharts of subsystems
 ### INPUT SUBSYSTEM
 ![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/INPUT.jpg?raw=true)
 
-
+### DISPENSING SUBSYSTEM
 ![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/DISPENSING-SUBSYSTEM.jpg?raw=true)
 
 
+### MIXING-SUBSYSTEM
 ![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/MIXING-SUBSYSTEM.jpg?raw=true)
 
 
+### NOTIFICATION
 ![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/NOTIFICATION.jpg?raw=true)
 
 ***
