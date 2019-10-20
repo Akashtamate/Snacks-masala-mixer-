@@ -1,4 +1,4 @@
-Flowcharts of subsystems
+## Flowcharts of subsystems
 
 ### INPUT SUBSYSTEM
 ![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/INPUT.jpg?raw=true)
@@ -26,4 +26,6 @@ Flowcharts of subsystems
 
 
 ![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/WhatsApp%20Image%202019-10-15%20at%2015.54.29.jpeg?raw=true)
+
+## Bill of materials
 
