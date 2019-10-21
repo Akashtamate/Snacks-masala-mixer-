@@ -29,3 +29,4 @@
 
 ## Bill of materials
 
+![](https://github.com/f-division-2019-2020-odd/Repo-03/blob/master/Annotation%202019-10-21%20110811.png)
